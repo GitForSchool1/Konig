@@ -24,6 +24,6 @@
         public function setHunger(int $hunger){ $this->$hunger = $hunger;}
         
         public function toString():string{return "Fame: ".$this->getHunger()."<br>Emotività: ".$this->getEmotivity()."% <br>Esperienza: ".$this->getExp();}
-    
+        //Test alias
     }
 ?>
