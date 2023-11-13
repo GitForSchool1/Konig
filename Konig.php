@@ -10,8 +10,9 @@
  
         case Bored = '(-__-)';
         case Love = '(♥‿‿♥)';
-        case Sad1 = '(╥☁ ╥ )';
-        case Sad2 = '(ب__ب)';
+        case Sad1 = '(╥_ ╥ )';
+        case Sad2 = '( ╥ _╥)';
+        case Sad3 = '(ب__ب)';
         case SuperHappy = '(☼‿‿☼)';
         case Happy1 = '(ᵔ◡◡ᵔ)';
         case Happy2 = '(^‿‿^)';
