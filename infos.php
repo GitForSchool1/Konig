@@ -13,7 +13,7 @@
             $this->$hunger = $hunger;
         }
 
-        public static function __constructor_vuoto(){return __constructor(0,0,0);}
+        public static function const_vuoto(){return __constructor(0,0,0);}
 
         public function getEmotivity():int{return $this->emotivity;}
         public function getExp():int{return $this->exp;}
